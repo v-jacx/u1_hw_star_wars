@@ -62,7 +62,7 @@ sudo apt install telnet
 ```
 telnet towel.blinkenlights.nl
 ```
-* Enjoy!!!
+* Enjoy!!! To quit, enter `ctrl + ]` followed by `quit`
 
 ![star-wars-the-end](https://media.giphy.com/media/iQn33nEos213i/giphy.gif)
 
