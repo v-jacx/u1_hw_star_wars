@@ -48,22 +48,6 @@ history | tail -n 250
 * This command will limit the history to the last 250 commands, but the number can be changed if more lines are needed
 * Copy and paste your terminal history into the `solution.txt` file to finish this deliverable
 
-## (Bonus) A Super Secret Command From a Galaxy Far, Far Away...
-* This bonus is completely optional, but a worthwile terminal endeavor for those with time
-* For MacOS users:
-```
-brew install telnet
-```
-* For Linux/Windows
-```
-sudo apt install telnet
-```
-* Finally, the super secret command!
-```
-telnet towel.blinkenlights.nl
-```
-* Enjoy!!! To quit, enter `ctrl + ]` followed by `quit`
-
 ![star-wars-the-end](https://media.giphy.com/media/iQn33nEos213i/giphy.gif)
 
 ## Submission Guidelines
