@@ -54,6 +54,6 @@ history | tail -n 250
 * Pull Requests must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/SEI-R-4-26/template_pull_request)
 
 ## Resources
-* [Terminal Lesson](https://github.com/SEI-R-4-26/u1_lesson_terminal)
+* [Terminal Lesson](https://github.com/SEI-R-7-26/u1_lesson_terminal)
 * [Terminal Cheatsheet](https://gist.github.com/cferdinandi/ef665330286fd5d7127d)
 
