@@ -1,4 +1,4 @@
-# Star Wars, the Command Line, and The Battle for the Fate of the Universe
+# Michael Lackey, the Command Line, and The Battle for the Fate of the Universe
 
 ![star wars theme image](https://res.cloudinary.com/ahonore42/image/upload/v1611100619/starwars-canon-banner_silgff.jpg)
 
