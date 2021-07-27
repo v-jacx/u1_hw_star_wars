@@ -1,5 +1,5 @@
 # 1. In this directory, create a new directory called star_wars. Example answer: mkdir star_wars
-
+mkdir star_wars
 # 2. In the star_wars folder, create two new directories: empire and rebellion (This can be done in two commands, but how would you do it in one?)
 
 # 3. Inside the empire directory, create a file called darth_vader.txt 
