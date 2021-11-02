@@ -51,9 +51,7 @@ history | tail -n 250
 ![star-wars-the-end](https://media.giphy.com/media/iQn33nEos213i/giphy.gif)
 
 ## Submission Guidelines
-* Pull Requests must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/SEI-R-4-26/template_pull_request)
+* Pull Requests must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/SEI-R-11-8/template_pull_request)
 
 ## Resources
-* [Terminal Lesson](https://github.com/SEI-R-7-26/u1_lesson_terminal)
 * [Terminal Cheatsheet](https://gist.github.com/cferdinandi/ef665330286fd5d7127d)
-
