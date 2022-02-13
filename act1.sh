@@ -4,7 +4,7 @@ mkdir star_wars
 
 # 3. Inside the empire directory, create a file called darth_vader.txt 
 
-# 4. Use the force (or your echo) to add the text "...heavy breathing..." to the darth_vader.txt file (Don’t remember how to do this? Use the ‘other force’, known as Google!)
+# 4. Use the force (or your echo) to add the text "...heavy breathing..." to the darth_vader.txt file (Don’t remember how to do this? Internet search it!)
 
 # 5. Inside the empire directory, create a file called emperor_palpatine.txt
 
