@@ -1,0 +1,113 @@
+  173  git clone https://github.com/v-jacx/u1_hw_star_wars.git
+  174  u1_hw_star_wars
+  175  ls
+  176  code .
+  177  mkdir star_wars
+  178  cd star_wars
+  179  mkdir empire rebellion
+  180  ls
+  181  empire
+  182  touch darth_vader.txt
+  183  echo "...heavy breathing..." >> darth_vader.txt
+  184  touch emperor_palpatine.txt
+  185  mkdir death_star
+  186  mv darth_vader.txt death_star
+  187  death_star
+  188  ls
+  189  cd empire
+  190  cd ..
+  191  ls
+  192  cd star_wars/rebellion
+  193  star_wars/rebellion
+  194  cd ~
+  195  pwd
+  196  star_wars/rebellion
+  197  cd ..
+  198  rebellion
+  199  touch princess_leia.txt && echo "Help me, Obi-Wan…" >> princess_leia.txt
+  200  ls
+  201  touch obi_wan.txt
+  202  luke_skywalker.txt
+  203  touch luke_skywalker.txt
+  204  mkdir millenium_falcon
+  205  millenium_falcon
+  206  touch han_solo.txt chewbacca.txt
+  207  ls
+  208  cd ..
+  209  mv princess_leia.txt obi_wan.txt luke_skywalker.txt -t millenium_falcon
+  210  ls
+  211  millenium_falcon
+  212  ls
+  213  cd ..
+  214  mv millenium_falcon death_star
+  215  cd ..
+  216  death_star
+  217  empire/death_star
+  218  ls
+  219  cd ..
+  220  rebellion
+  221  ls
+  222  cd ..
+  223  rebellion
+  224  ls
+  225  rebellion
+  226  ls
+  227  mv millenium_falcon death_star
+  228  ls
+  229  millenium_falcon
+  230  ls
+  231  cd ..
+  232  ls
+  233  mv millenium falcon millenium_falcon
+  234  ls
+  235  mv millenium falcon millenium_falcon
+  236  ls
+  237  cd ..
+  238  mv millenium_falcon death_star
+  239  mv rebellion/millenium_falcon empire/death_star
+  240  ls
+  241  empire
+  242  ls
+  243  death_star
+  244  ls
+  245  cd ..
+  246  empire/death_star
+  247  cd ..
+  248  mv millenium_falcon/* death_star
+  249  ls
+  250  death_star
+  251  mv millenium_falcon/* death_star
+  252  cd ..
+  253  mv death_star/millenium_falcon/* death_star
+  254  ls
+  255  death_star
+  256  ls
+  257  rm obi_wan.txt
+  258  ls
+  259  mv princess_leia.txt luke_skywalker.txt han_solo.txt chewbacca.txt -t millenium_falcon
+  260  ls
+  261  ls -a
+  262  millenium_falcon
+  263  ls
+  264  cd ..
+  265  emperor_palpatine.txt
+  266  cd ..
+  267  mv empire/death_star/millenium rebellion
+  268  mv death_star/millenium_falcon rebellion
+  269  ls
+  270  empire
+  271  mv death_star/millenium_falcon star_wars/rebellion
+  272  ls
+  273  death_star
+  274  ls
+  275  cd ..
+  276  mv star_wars/empire/death_star/millenium_falcon star_wars/rebellion
+  277  star_wars
+  278  cd ..
+  279  mv star_wars/empire/death_star/darth_vadar.txt star_wars/empire
+  280  star_wars
+  281  mv empire/death_star/darth_vader.txt empire
+  282  ls
+  283  empire
+  284  ls
+  285  rm -rd death_star
